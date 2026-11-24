@@ -129,7 +129,7 @@ with c1:
 
     st.write(
         "**Customer Name:**",
-        customer.get("name", "Not Provided")
+        customer.get("name")or customer.get("customerID", "Not Provided")
     )
 
     st.write(
