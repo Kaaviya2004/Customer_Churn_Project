@@ -346,19 +346,24 @@ with st.form("customer_information_form"):
 
     with col1:
 
-        if customer is not None:
-
-            customer_name = st.text_input(
-                "Customer ID",
-                value=str(customer.get("customerID", ""))
-            )
-
-        else:
-
-            customer_name = st.text_input(
-                "Customer Name",
-                placeholder="Enter customer name"
-            )
+    if customer is not None:
+       customer_name = st.text_input(
+        "Customer Name",
+        value=str(customer.get("name", ""))
+    )
+    customerID = st.text_input(
+        "Customer ID",
+        value=str(customer.get("customerID", ""))
+    )
+    else:
+     customer_name = st.text_input(
+        "Customer Name",
+        placeholder="Enter customer name"
+    )
+    customerID = st.text_input(
+        "Customer ID",
+        placeholder="Enter customer ID"
+    )
 
 
         gender = st.selectbox(
