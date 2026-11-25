@@ -1,0 +1,5 @@
+customerID,customerName,customerType,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+NEW-1001,lavanya,New Customer,Female,0,No,No,12,Yes,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.0,840.0
+NEW-1002,kayal,New Customer,Female,0,No,No,12,Yes,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.0,840.0
+NEW-1003,kayal,New Customer,Female,0,No,No,12,Yes,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.0,840.0
+NEW-1004,kayal,New Customer,Female,0,No,No,12,Yes,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.0,840.0
