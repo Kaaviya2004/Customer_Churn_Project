@@ -94,7 +94,7 @@ Business Impact: Shows revenue, value, and saving.
 Report: Generates a complete downloadable report.
 
 👩‍💻 Developed By
-KaaviyaAI 
+Kaaviya
 Customer Retention Assistant - Final Year Project
 
 
