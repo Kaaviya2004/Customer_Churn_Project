@@ -76,9 +76,9 @@ AI-Customer-Retention-Assistant/
 
 ## ▶️ How to Run Locally
 
-1. Clone the repository:
+**Clone the repository:**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Kaaviya2004/Customer-Churn-Prediction.git
 
 Install dependencies:
 pip install -r requirements.txt
@@ -93,20 +93,3 @@ AI Analysis: The model predicts churn risk.
 Business Impact: Shows revenue, value, and saving.
 Report: Generates a complete downloadable report.
 
-👩‍💻 Developed By
-Kaaviya
-Customer Retention Assistant - Final Year Project
-
-
-**Un GitHub repo link ah mattum maathikanum:**
-
-`https://github.com/your-username/your-repo-name.git` nu iruka edathula, un repo link ah potru.
-
-Un repo link theriyala na, GitHub la un repo ku poi mela iruka URL ah copy panni anuppu, naan maathi tharen!
-
-**Ippo paste panni, push pannidu:**
-
-```bash
-git add README.md
-git commit -m "Added live demo link"
-git push
